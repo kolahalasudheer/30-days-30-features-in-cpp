@@ -2,13 +2,13 @@
 
 My target is to build one small feature daily every day for 30 continuous days from scratch using C++ language.
 
-## 30 Features List - C++ Challenge
+## 30 Days 30 Features - C++ Challenge
 
 ### Day 1 – ✅ Digital Wallet (Done!)
 - Add, spend, check balance.
 - Validate positive amounts and sufficient balance.
 
-### Day 2 – Change Password Feature
+### Day 2 – ✅ Change Password Feature (Done!)
 - Validate old password.
 - New password length ≥ 6.
 - Confirm password match.
@@ -60,7 +60,7 @@ My target is to build one small feature daily every day for 30 continuous days f
 - Calculate class average.
 
 ### Day 13 – Parking Slot Allocator
-- Assign first available slot (1–15).
+- Assign first available slot (1–20).
 - Mark occupied.
 - Handle exit and free slot.
 
