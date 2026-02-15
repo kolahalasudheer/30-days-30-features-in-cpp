@@ -13,7 +13,7 @@ My target is to build one small feature daily every day for 30 continuous days f
 - New password length ≥ 6.
 - Confirm password match.
 
-### Day 3 – Login Attempt Limiter
+### Day 3 – ✅ Login Attempt Limiter (Done!)
 - Allow only 3 failed attempts before locking account for session.
 
 ### Day 4 – Discount Calculator with Coupon Validation
