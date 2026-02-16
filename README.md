@@ -16,7 +16,7 @@ My target is to build one small feature daily every day for 30 continuous days f
 ### Day 3 – ✅ Login Attempt Limiter (Done!)
 - Allow only 3 failed attempts before locking account for session.
 
-### Day 4 – Discount Calculator with Coupon Validation
+### Day 4 – ✅ Discount Calculator with Coupon Validation (Done!)
 - Apply discount only if coupon code is valid and not expired.
 
 ### Day 5 – ATM Daily Withdrawal Limit
