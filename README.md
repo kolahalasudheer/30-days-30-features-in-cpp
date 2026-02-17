@@ -19,7 +19,7 @@ My target is to build one small feature daily every day for 30 continuous days f
 ### Day 4 – ✅ Discount Calculator with Coupon Validation (Done!)
 - Apply discount only if coupon code is valid and not expired.
 
-### Day 5 – ATM Daily Withdrawal Limit
+### Day 5 – ✅ ATM Daily Withdrawal Limit (Done!)
 - Track daily withdrawal amount.
 - Prevent exceeding ₹20,000/day limit.
 
